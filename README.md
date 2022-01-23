@@ -1,0 +1,2 @@
+# TIC-TAC-TOE
+A python based game coded in the jupyter notebook with .ipynb extension which have 162 lines of code it first  asks the user to choose x or o to randomly decide whether player1 or player2 plays first and then the game starts It will keep asking input from players until someone wins , looses , or it’s a draw . after that it asks whether  players want to play again or not , if no loop stops and the game is over, if yes then the loop starts again.
